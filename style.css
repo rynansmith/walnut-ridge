@@ -208,6 +208,7 @@ footer {
   header #branding,
   header nav,
   header nav li,
+  #packages .box img,
   #boxes .box{
     float: none;
     text-align: center;
@@ -217,6 +218,7 @@ footer {
   #deal2 {
     width: 100%;
     height: 100%;
+    font-size: 100%;
   }
 
   #about {
